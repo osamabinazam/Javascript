@@ -5,7 +5,6 @@ var number3 = number1+number2;
 console.log("The value of number3 is: "+number3);
 document.writeln("\nThe sum of "+number1 +"and " + number2 +" is: "+number3);
 
-
 {
      var variable1 =40;
     document.writeln(variable1*8);
